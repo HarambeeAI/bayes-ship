@@ -13,14 +13,14 @@ It combines GSD's context engineering with Superpowers' execution discipline, ad
 ### Option 1: From marketplace (recommended)
 
 ```
-/plugin marketplace add bayes-consulting/bayes-ship
+/plugin marketplace add HarambeeAI/bayes-ship
 /plugin install bayes-ship@bayes-ship-marketplace
 ```
 
 ### Option 2: Local development
 
 ```
-git clone https://github.com/bayes-consulting/bayes-ship.git
+git clone https://github.com/HarambeeAI/bayes-ship.git
 claude --plugin-dir ./bayes-ship
 ```
 
