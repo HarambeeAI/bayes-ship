@@ -1,0 +1,23 @@
+{
+  "name": "bayes-ship",
+  "description": "End-to-end product delivery system for Claude Code. Discovery Q&A, parallel research, spec generation, architecture, TDD, two-stage review, autonomous build mode, deployment. African-market defaults (M-Pesa, BetterAuth).",
+  "version": "0.2.0",
+  "author": {
+    "name": "Bayes Consulting",
+    "email": "hello@bayesconsulting.com"
+  },
+  "homepage": "https://github.com/bayes-consulting/bayes-ship",
+  "repository": "https://github.com/bayes-consulting/bayes-ship",
+  "license": "MIT",
+  "keywords": [
+    "product-delivery",
+    "spec-driven",
+    "tdd",
+    "two-stage-review",
+    "subagent",
+    "context-engineering",
+    "africa",
+    "mpesa",
+    "kenya"
+  ]
+}

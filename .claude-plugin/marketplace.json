@@ -1,0 +1,21 @@
+{
+  "name": "bayes-ship-marketplace",
+  "owner": {
+    "name": "Bayes Consulting",
+    "email": "hello@bayesconsulting.com"
+  },
+  "metadata": {
+    "description": "Bayes Ship — end-to-end product delivery system for Claude Code",
+    "version": "0.2.0"
+  },
+  "plugins": [
+    {
+      "name": "bayes-ship",
+      "source": ".",
+      "description": "End-to-end product delivery: discovery, research, spec, architecture, TDD, two-stage review, autonomous build, deployment.",
+      "version": "0.2.0",
+      "category": "productivity",
+      "tags": ["spec-driven", "tdd", "product-delivery", "africa", "mpesa"]
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+# Bayes Ship state files (created at runtime, not part of the plugin)
+.claude/state/
+node_modules/
+.env
+*.log
