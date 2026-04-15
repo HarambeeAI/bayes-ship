@@ -21,7 +21,13 @@ It combines GSD's context engineering with Superpowers' execution discipline, ad
 
 ```
 git clone https://github.com/HarambeeAI/bayes-ship.git
-claude --plugin-dir ./bayes-ship
+```
+
+Then inside Claude Code:
+
+```
+/plugin marketplace add /absolute/path/to/bayes-ship
+/plugin install bayes-ship@bayes-ship-marketplace
 ```
 
 ## Quick Start
